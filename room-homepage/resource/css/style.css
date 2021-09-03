@@ -162,17 +162,17 @@ img {
 }
 
 .one.on {
-   background-image: url('/images/desktop-image-hero-1.jpg');
+   background-image: url('../../images/desktop-image-hero-1.jpg');
    opacity: 1;
 }
 
 .two.on {
-   background-image: url('/images/desktop-image-hero-2.jpg');
+   background-image: url('../../images/desktop-image-hero-2.jpg');
    opacity: 1;
 }
 
 .three.on {
-   background-image: url('/images/desktop-image-hero-3.jpg');
+   background-image: url('../../images/desktop-image-hero-3.jpg');
    opacity: 1;
 }
 
@@ -242,7 +242,7 @@ img {
    left: 85%;
    top: 50%;
    transform: translateY(-50%);
-   background-image: url('/images/icon-arrow.svg');
+   background-image: url('../../images/icon-arrow.svg');
    background-repeat: no-repeat;
    background-position: center center;
    background-size: initial;
@@ -278,7 +278,7 @@ img {
 .arr-left {
    width: 50%;
    height: 100%;
-   background-image: url('/images/icon-angle-left.svg');
+   background-image: url('../../images/icon-angle-left.svg');
    background-color: #111;
    background-repeat: no-repeat;
    background-position: center center;
@@ -297,7 +297,7 @@ img {
 .arr-right {
    width: 50%;
    height: 100%;
-   background-image: url('/images/icon-angle-right.svg');
+   background-image: url('../../images/icon-angle-right.svg');
    background-color: #111;
    background-repeat: no-repeat;
    background-position: center center;
@@ -331,7 +331,7 @@ img {
 .down-img-one {
    width: 420px;
    height: 100%;
-   background-image: url('/images/image-about-dark.jpg');
+   background-image: url('../../images/image-about-dark.jpg');
    background-repeat: no-repeat;
    background-position: center center;
    background-size: initial;
@@ -351,7 +351,7 @@ img {
 .down-img-two {
    width: 440px;
    height: 100%;
-   background-image: url('/images/image-about-light.jpg');
+   background-image: url('../../images/image-about-light.jpg');
    background-repeat: no-repeat;
    background-position: center center;
    background-size: initial;
@@ -465,15 +465,15 @@ img {
    }
 
    .one.on {
-      background-image: url('/images/mobile-image-hero-1.jpg');
+      background-image: url('../../images/mobile-image-hero-1.jpg');
    }
 
    .two.on {
-      background-image: url('/images/mobile-image-hero-2.jpg');
+      background-image: url('../../images/mobile-image-hero-2.jpg');
    }
 
    .three.on {
-      background-image: url('/images/mobile-image-hero-3.jpg');
+      background-image: url('../../images/mobile-image-hero-3.jpg');
    }
 
    .up-right {
